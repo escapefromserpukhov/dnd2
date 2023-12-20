@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mi798vovy2m9fwjt?svg=true)](https://ci.appveyor.com/project/junaer/dnd2)
+[![Build status](https://ci.appveyor.com/api/projects/status/mi798vovy2m9fwjt?svg=true)](https://ci.appveyor.com/project/escapefromserpukhov/dnd2)
 
-https://junaer.github.io/dnd2/
+https://escapefromserpukhov.github.io/dnd2/
 
 Правила сдачи задания:
 
